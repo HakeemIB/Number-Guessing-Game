@@ -1,13 +1,6 @@
 ﻿using System;
 using System.Linq;
 
-/*
-Console.WriteLine("What is your name?:");
-Console.ReadLine();
-string name = Console.ReadLine();
-Console.WriteLine("Ah so your name is: " + name);
-*/
-
 //Number guessing Game
 
 Console.WriteLine("Im thinking of a number from 1 to 100 Guess it!");
